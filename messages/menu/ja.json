@@ -1,0 +1,63 @@
+{
+  "ui": {
+    "selectOption": "オプションを選択",
+    "standard": "基本",
+    "flavor": "味を選択（1つ）",
+    "typeAndSpice": "種類・辛さを選択（1つ）",
+    "customizeCombo": "セット内容を選択（1つ）",
+    "sideAddons": "サイドメニューを追加",
+    "extraAddons": "追加オプション",
+    "drinkAddons": "ドリンクを追加",
+    "addons": "追加メニュー"
+  },
+  "items": {
+    "premium-k-fried-chicken": {
+      "name": "プレミアム韓国フライドチキン",
+      "tagline": "外はカリッと、中はジューシー。本場韓国の定番チキンをお楽しみください。"
+    },
+    "k-street-tteokbokki": {
+      "name": "韓国屋台トッポッキ",
+      "tagline": "もちもちのトックに濃厚なソースが絡む、韓国屋台の王道ソウルフードです。"
+    },
+    "premium-k-pizza": {
+      "name": "プレミアム韓国ピザ",
+      "tagline": "具材たっぷりで個性豊か。韓国ならではの味わいを楽しめるボリューム満点のピザです。"
+    },
+    "jjajang-tangsuyuk-combo": {
+      "name": "チャジャンミョン＆タンスユクセット（1～2人前）",
+      "tagline": "香ばしい黒味噌麺とサクサクの韓国式酢豚を一度に楽しめる、定番の韓国中華セットです。"
+    },
+    "premium-k-bingsu-coffee": {
+      "name": "プレミアム韓国かき氷（ピンス）＆コーヒー",
+      "tagline": "韓国グルメの締めくくりにぴったりな、ひんやり甘い本格デザートです。"
+    }
+  },
+  "options": {
+    "Fried": "オリジナルフライド",
+    "Sweet & Spicy Seasoned": "甘辛ヤンニョム",
+    "Half & Half": "ハーフ＆ハーフ",
+    "Golden Cheese Powder / Bburinkle": "ゴールデンチーズパウダー（プリンクル）",
+    "Add Crunchy Cheese Balls": "もちもちチーズボールを追加",
+    "Original Style - Mild": "オリジナル・辛さ控えめ",
+    "Original Style - Medium": "オリジナル・中辛",
+    "Original Style - Spicy": "オリジナル・辛口",
+    "Rose Cream Style - Mild": "ロゼクリーム・辛さ控えめ",
+    "Rose Cream Style - Spicy": "ロゼクリーム・辛口",
+    "Real Bulgogi": "本格プルコギ",
+    "Sweet Potato Mousse": "さつまいもムース",
+    "Combination": "コンビネーション",
+    "Classic Pepperoni": "クラシックペパロニ",
+    "Add French Fries": "フライドポテトを追加",
+    "Add Oven-Baked Spaghetti": "オーブン焼きスパゲッティを追加",
+    "Standard: Jajangmyeon (1) + Mini Tangsuyuk (1)": "基本セット：チャジャンミョン1品＋ミニタンスユク1品",
+    "Swap Noodles to Spicy Seafood Soup / Jampong": "麺を海鮮辛口チャンポンに変更",
+    "Add 1 More Jajangmyeon": "チャジャンミョンを1品追加",
+    "Add Crispy Fried Mandu / Dumplings": "カリカリ揚げマンドゥを追加",
+    "Classic Injeolmi (Sweet Red Bean & Roasted Grain Powder)": "定番インジョルミ（小豆＆きな粉）",
+    "Sweet Mango & Cheese Cube": "マンゴー＆チーズキューブ",
+    "Add Iced Americano / Premium Korean Coffee": "アイスアメリカーノ／韓国プレミアムコーヒーを追加",
+    "음료추가": "ドリンクを追加",
+    "Assorted fried food": "揚げ物盛り合わせ",
+    "Standard": "基本"
+  }
+}
