@@ -1,5 +1,11 @@
 # GoKwon Presentation Repository
 
+GoKwon
+Mobile-first web service for international visitors in Korea
+Live: https://gokwon.xyz  
+Tech: Next.js · React · TypeScript · Supabase · PayPal  
+Implemented ordering flow, admin flow, payment validation, and mobile UI.
+Validated a real USD 1 payment with an international user, including payment receipt, email notification, and refund.
 This is a public presentation copy of the GoKwon project.
 
 GoKwon is a mobile-first concierge ordering service for foreign travelers in Korea. It focuses on:
